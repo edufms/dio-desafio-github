@@ -1,0 +1,16 @@
+# DataScience
+## Pandas
+## Numpy
+## Matplotlib
+## Seaborn
+## Plotly
+
+# Web
+## Django
+## Flask
+
+# Automação
+## PyautoGUI
+## Selenium
+## Requests
+## BeautifulSoup
